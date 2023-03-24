@@ -1,25 +1,24 @@
 <b>IN PROGRESS</b>
 
-👋 Hi there! I'm Kamran, a Senior Flutter Developer.
+👋 Hi there! I'm Kamran, a Senior Flutter Developer with 3 years of experience who participated in development of over 50 mobile applications and several plugin and packages.
 
-![Portfolio](https://github.com/kamranbekirovyz/kamranbekirovyz/blob/main/kamran-portfolio.jpg?raw=true)
+🌱 I'm currently working on several open-source packages for Flutter and my indie mobile app ideas *por el arte* (for the art of it).
 
-🌱 I'm currently learning [Your Learning Goals] and working on [Your Current Projects].
+![Portfolio](https://raw.githubusercontent.com/kamranbekirovyz/kamranbekirovyz/main/kamran-portfolio.jpg)
 
-🚀 Check out some of the apps I've developed:
-
-- 🏦 CİB: Multi-bank mobile banking assistant
-- 🛍️ BON: cashback, coupons, promo codes for purchases online
-- 💧 Badamlı: water delivery to the location.
-- 📦 Vadi: cargo & freight service from Turkey.
-- 🚘 MASHIN.AL: car catalog & buy-sell platform.
-- 🚌 BakuTransport: live bus tracking in Baku, Azerbaijan.
-- 👕 Tentony: multi-vendor e-commerce platform.
-- 🎵 wibty: social media & music streaming platform.
-- 🚑 DoctOnline: calendar & reservation assistant for medics.
-- 💰 Ormado Cashbook: cashier management app for "Ormado Kaffeehaus"
-- 🏪 Rahat Kart: 
-- 🚚 Tezibu: instant delivery platform for food & merchandise.
+🚀 Some of the prominent apps from my portfolio:
+- 🏦 [CİB](https://cib.az): multi-bank mobile banking assistant
+- 🛍️ [BON](https://bon.az): cashback, coupons, promo codes for online stores.
+- 💧 [Badamlı](https://badamli.az): water delivery to the location.
+- 📦 [Vadi](https://vadi.az): cargo & freight from Turkey.
+- 🚘 [MASHIN.AL](https://mashin.al): car catalog & buy-sell platform.
+- 🚌 [BakuTransport](https://bakutransport.az): live bus tracking in Baku, Azerbaijan.
+- 👕 [Tentony](https://tentony.com): multi-vendor e-commerce platform.
+- 🎵 [wibty](https://wibty.com): social media & music streaming platform.
+- 🚑 [DoctOnline](https://doctonline.az): calendar & reservation assistant for medics.
+- 💰 [Ormado Cashbook](https://ormado.de): cashier management for branches.
+- 🏪 [Rahat Kart](https://rahatmarket.az): grocery store loyalty/cashback card.
+- 🚚 [Tezibu](https://tezibu.az): instant food & merchandise delivery.
 
 There are over 50 mobile applications on my portfolio, to see them all and their links visit [kamranbekirov.com](https://kamranbekirov.com) 🤓
 
@@ -29,8 +28,9 @@ There are over 50 mobile applications on my portfolio, to see them all and their
 - 🔄 [cupertino_refresh](https://): Flutter package for iOS-styled refresh control Widget and Sliver.
 - 🔑 [asan_login_flutter](https://): Flutter plugin for implementing ASAN Login authentication.
 
-💬 Let's get in touch: [Your Social Media Links]
+📝 Articles:
+- "[Better the state is managed, the better user experience](https://medium.com/design-bootcamp/better-the-state-is-managed-the-better-users-experience-ded901259012)"
 
-📫 Reach me via [Your Email Address]
+💬 Let's get in touch: [Instagram](https://instagram.com/kamranbekirovyz), [LinkedIn](https://linkedin.com/in/kamranbekirovyz), [Medium](https://medium.com/kamranbekirovyz), [Twitter](https://twitter.com/kamranbekirovyz).
 
-Thanks for stopping by! 😄
+📫 Reach me via [me@kamranbekirov.com](mailto:me@kamranbekirov.com)
