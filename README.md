@@ -8,12 +8,20 @@
 
 🚀 Check out some of the apps I've developed:
 
-- 🏦 CİB: Multi-bank mobile banking assistant ([App Store](https://), [Play Store](https://))
+- 🏦 CİB: Multi-bank mobile banking assistant
 - 🛍️ BON: cashback, coupons, promo codes for purchases online
-- 💧 Badamlı: 
-- 📦 [Vadi]
-- 🚘 [MASHIN.AL]
-- 🏪 [Rahat Kart]
+- 💧 Badamlı: water delivery to the location.
+- 📦 Vadi: cargo & freight service from Turkey.
+- 🚘 MASHIN.AL: car catalog & buy-sell platform.
+- 🚌 BakuTransport: live bus tracking in Baku, Azerbaijan.
+- 👕 Tentony: multi-vendor e-commerce platform.
+- 🎵 wibty: social media & music streaming platform.
+- 🚑 DoctOnline: calendar & reservation assistant for medics.
+- 💰 Ormado Cashbook: cashier management app for "Ormado Kaffeehaus"
+- 🏪 Rahat Kart: 
+- 🚚 Tezibu: instant delivery platform for food & merchandise.
+
+There are over 50 mobile applications on my portfolio, to see them all and their links visit [kamranbekirov.com](https://kamranbekirov.com) 🤓
 
 
 💻 Package & plugins I've developed for Flutter:
@@ -24,7 +32,5 @@
 💬 Let's get in touch: [Your Social Media Links]
 
 📫 Reach me via [Your Email Address]
-
-👀 Check out my [Your Website or Portfolio Link] to see my past projects and contributions.
 
 Thanks for stopping by! 😄
