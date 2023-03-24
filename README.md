@@ -10,7 +10,7 @@
 - 💧 [Badamlı](https://badamli.az): water delivery to the location.
 - 📦 [Vadi](https://vadi.az): cargo & freight from Turkey.
 - 🚘 [MASHIN.AL](https://mashin.al): car catalog & buy-sell platform.
-- 🚌 [BakuTransport](https://bakutransport.az): live bus tracking in Baku, Azerbaijan.
+- 🚌 [BakuTransport](https://bakutransport.app): live bus tracking in Baku, Azerbaijan.
 - 👕 [Tentony](https://tentony.com): multi-vendor e-commerce platform.
 - 🎵 [wibty](https://wibty.com): social media & music streaming platform.
 - 🚑 [DoctOnline](https://doctonline.az): calendar & reservation assistant for medics.
@@ -21,7 +21,7 @@
 There are over 50 mobile applications on my portfolio, to see them all and their store links, visit [kamranbekirov.com](https://kamranbekirov.com) 🤓
 
 
-💻 Package & plugins I've developed for Flutter:
+🔌 Package & plugins I've developed for Flutter:
 - 🖨 [telpo_flutter_sdk](https://): Flutter plugin for Telpo thermal printer devices.
 - 🔄 [cupertino_refresh](https://): Flutter package for iOS-styled refresh control Widget and Sliver.
 - 🔑 [asan_login_flutter](https://): Flutter plugin for implementing ASAN Login authentication.
