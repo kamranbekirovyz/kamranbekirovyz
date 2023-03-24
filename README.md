@@ -29,6 +29,6 @@ There are over 50 mobile applications on my portfolio, to see them all and their
 📝 Articles:
 - "[Better the state is managed, the better user experience](https://medium.com/design-bootcamp/better-the-state-is-managed-the-better-users-experience-ded901259012)"
 
-💬 Let's get in touch: [Instagram](https://instagram.com/kamranbekirovyz), [LinkedIn](https://linkedin.com/in/kamranbekirovyz), [Medium](https://medium.com/kamranbekirovyz), [Twitter](https://twitter.com/kamranbekirovyz).
+💬 Let's get in touch: [Instagram](https://instagram.com/kamranbekirovyz), [LinkedIn](https://linkedin.com/in/kamranbekirovyz), [Medium](https://medium.com/@kamranbekirovyz), [Twitter](https://twitter.com/kamranbekirovyz).
 
 📫 Reach me via [me@kamranbekirov.com](mailto:me@kamranbekirov.com)
