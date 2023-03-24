@@ -1,5 +1,3 @@
-<b>IN PROGRESS</b>
-
 👋 Hi there! I'm Kamran, a Senior Flutter Developer with 3 years of experience who participated in development of over 50 mobile applications and several plugin and packages.
 
 🌱 I'm currently working on several open-source packages for Flutter and my indie mobile app ideas *por el arte* (for the art of it).
