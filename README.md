@@ -1,6 +1,6 @@
-👋 Hi there! I'm Kamran, a Senior Flutter Developer with 3 years of experience who participated in development of over 50 mobile applications and several plugin and packages.
+👋 Hi there! I'm Kamran, a Senior Flutter Developer with over 3 years of experience. I've participated in development of more than 50 mobile applications, along with several plugins and packages for Flutter.
 
-🌱 I'm currently working on several open-source packages for Flutter and my indie mobile app ideas *por el arte* (for the art of it).
+🌱 I'm currently working on several open-source packages and my indie mobile app ideas *por el arte* (for the art of it).
 
 ![Portfolio](https://raw.githubusercontent.com/kamranbekirovyz/kamranbekirovyz/main/kamran-portfolio.jpg)
 
@@ -18,7 +18,7 @@
 - 🏪 [Rahat Kart](https://rahatmarket.az): grocery store loyalty/cashback card.
 - 🚚 [Tezibu](https://tezibu.az): instant food & merchandise delivery.
 
-There are over 50 mobile applications on my portfolio, to see them all and their links visit [kamranbekirov.com](https://kamranbekirov.com) 🤓
+There are over 50 mobile applications on my portfolio, to see them all and their store links, visit [kamranbekirov.com](https://kamranbekirov.com) 🤓
 
 
 💻 Package & plugins I've developed for Flutter:
