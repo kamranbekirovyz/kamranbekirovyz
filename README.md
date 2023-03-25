@@ -5,16 +5,18 @@
 ![Portfolio](https://raw.githubusercontent.com/kamranbekirovyz/kamranbekirovyz/main/kamran-portfolio.jpg)
 
 🚀 Some of the prominent apps from my portfolio:
-- 🏦 [CİB](https://cib.az): multi-bank mobile banking assistant
+- 🏦 [CİB](https://cib.az): multi-bank mobile banking assistant.
 - 🛍️ [BON](https://bon.az): cashback, coupons, promo codes for online stores.
 - 💧 [Badamlı](https://badamli.az): water delivery to the location.
 - 📦 [Vadi](https://vadi.az): cargo & freight from Turkey.
 - 🚘 [MASHIN.AL](https://mashin.al): car catalog & buy-sell platform.
+- 🚘 [MASHIN.AL Business](https://mashin.al): chat & communication for car dealer and buyers.
 - 🚌 [BakuTransport](https://bakutransport.app): live bus tracking in Baku, Azerbaijan.
 - 👕 [Tentony](https://tentony.com): multi-vendor e-commerce platform.
 - 🎵 [wibty](https://wibty.com): social media & music streaming platform.
 - 🚑 [DoctOnline](https://doctonline.az): calendar & reservation assistant for medics.
 - 💰 [Ormado Cashbook](https://ormado.de): cashier management for branches.
+- 🗺️ [CASHIM](https://cashim.az): see cashbacks from businesses around you on the map.
 - 🏪 [Rahat Kart](https://rahatmarket.az): grocery store loyalty/cashback card.
 - 🚚 [Tezibu](https://tezibu.az): instant food & merchandise delivery.
 
