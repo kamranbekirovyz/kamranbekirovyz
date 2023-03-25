@@ -10,7 +10,7 @@
 - 💧 [Badamlı](https://badamli.az): water delivery to the location.
 - 📦 [Vadi](https://vadi.az): cargo & freight from Turkey.
 - 🚘 [MASHIN.AL](https://mashin.al): car catalog & buy-sell platform.
-- 🚘 [MASHIN.AL Business](https://mashin.al): chat & communication for car dealer and buyers.
+- 💬 [MASHIN.AL Business](https://mashin.al): chat & communication for car dealer and buyers.
 - 🚌 [BakuTransport](https://bakutransport.app): live bus tracking in Baku, Azerbaijan.
 - 👕 [Tentony](https://tentony.com): multi-vendor e-commerce platform.
 - 🎵 [wibty](https://wibty.com): social media & music streaming platform.
