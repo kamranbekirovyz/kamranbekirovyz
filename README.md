@@ -23,9 +23,10 @@ There are over 50 mobile applications on my portfolio, to see them all and their
 
 
 🔌 Package & plugins I've developed for Flutter:
-- 🖨 [telpo_flutter_sdk](https://): Flutter plugin for Telpo thermal printer devices.
-- 🔄 [cupertino_refresh](https://): Flutter package for iOS-styled refresh control Widget and Sliver.
-- 🔑 [asan_login_flutter](https://): Flutter plugin for implementing ASAN Login authentication.
+- 🔢 [versionarte](https://pub.dev/packages/versionarte): Flutter plugin remotely managing your app's versioning and availability.
+- 🖨 [telpo_flutter_sdk](https://pub.dev/packages/telpo_flutter_sdk): Flutter plugin for Telpo thermal printer devices.
+- 🔄 [cupertino_refresh](https://pub.dev/packages/cupertino_refresh): Flutter package for iOS-styled refresh control Widget and Sliver.
+- 🔑 [asan_login_flutter](https://pub.dev/packages/asan_login_flutter): Flutter plugin for implementing ASAN Login authentication.
 
 📝 Articles:
 - "[Better the state is managed, the better user experience](https://medium.com/design-bootcamp/better-the-state-is-managed-the-better-users-experience-ded901259012)"
