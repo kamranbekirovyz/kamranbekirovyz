@@ -28,8 +28,11 @@ There are over 50 mobile applications on my portfolio, to see them all and their
 - 🔄 [cupertino_refresh](https://pub.dev/packages/cupertino_refresh): Flutter package for iOS-styled refresh control Widget and Sliver.
 - 🔑 [asan_login_flutter](https://pub.dev/packages/asan_login_flutter): Flutter plugin for implementing ASAN Login authentication.
 
+
 📝 Articles:
-- "[Better the state is managed, the better user experience](https://medium.com/design-bootcamp/better-the-state-is-managed-the-better-users-experience-ded901259012)"
+- "[Azərbaycanda Flutter ilə hazırlanmış TOP 30 mobil tətbiq
+](https://medium.com/@kamranbekirovyz/78bf69a7e0c5)"
+- "[Better the state is managed, the better user experience](https://medium.com/design-bootcamp/ded901259012)"
 
 💬 Let's get in touch: [Instagram](https://instagram.com/kamranbekirovyz), [LinkedIn](https://linkedin.com/in/kamranbekirovyz), [Medium](https://medium.com/@kamranbekirovyz), [Twitter](https://twitter.com/kamranbekirovyz).
 
