@@ -30,8 +30,8 @@ There are over 50 mobile applications on my portfolio, to see them all and their
 
 
 📝 Articles:
-- "[Azərbaycanda Flutter ilə hazırlanmış TOP 30 mobil tətbiq
-](https://medium.com/@kamranbekirovyz/78bf69a7e0c5)"
+- "[Building a customizable password strength checker in Flutter](https://medium.com/@kamranbekirovyz/ac219650305a)"
+- "[Azərbaycanda Flutter ilə hazırlanmış TOP 30 mobil tətbiq](https://medium.com/@kamranbekirovyz/78bf69a7e0c5)"
 - "[Better the state is managed, the better user experience](https://medium.com/design-bootcamp/ded901259012)"
 
 💬 Let's get in touch: [Instagram](https://instagram.com/kamranbekirovyz), [LinkedIn](https://linkedin.com/in/kamranbekirovyz), [Medium](https://medium.com/@kamranbekirovyz), [Twitter](https://twitter.com/kamranbekirovyz).
