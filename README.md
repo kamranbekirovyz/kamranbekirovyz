@@ -27,11 +27,10 @@ There are over 60 mobile applications on my portfolio, to see them all and their
 - 🔄 **cupertino_refresh**: Flutter package for iOS-styled refresh control Widget and Sliver - [pub.dev](https://pub.dev/packages/cupertino_refresh)
 - 🔑 **asan_login_flutter**: Flutter plugin for implementing ASAN Login authentication - [pub.dev](https://pub.dev/packages/asan_login_flutter)
 
-
 ### 📝 Articles:
-- "[Building a customizable password strength checker in Flutter](https://medium.com/@kamranbekirovyz/ac219650305a)"
-- "[Azərbaycanda Flutter ilə hazırlanmış TOP 30 mobil tətbiq](https://medium.com/@kamranbekirovyz/78bf69a7e0c5)"
-- "[Better the state is managed, the better user experience](https://medium.com/design-bootcamp/ded901259012)"
+- "**Building a customizable password strength checker in Flutter**" -[Medium](https://medium.com/@kamranbekirovyz/ac219650305a)
+- "**Azərbaycanda Flutter ilə hazırlanmış TOP 30 mobil tətbiq**" - [Medium](https://medium.com/@kamranbekirovyz/78bf69a7e0c5)"
+- "**Better the state is managed, the better user experience**" - [Medium](https://medium.com/design-bootcamp/ded901259012)
 
 ---
 
