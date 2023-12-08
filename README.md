@@ -5,8 +5,8 @@
 ![Portfolio](https://raw.githubusercontent.com/kamranbekirovyz/kamranbekirovyz/main/kamran-portfolio.jpg)
 
 🚀 Some of the prominent apps from my portfolio:
-- 🏦 [CİB](https://cib.az): multi-bank mobile banking assistant.
-- 🛍️ [BON](https://bon.az): cashback, coupons, promo codes for online stores.
+- 🏦 CİB: multi-bank mobile banking assistant - [Play Store](https://play.google.com/store/apps/details?id=az.cib.app) | [App Store](https://apps.apple.com/us/app/cib-az/id1541577214)
+- 🛍️ BON: cashback, coupons, promo codes for online store - [Play Store](https://play.google.com/store/apps/details?id=com.bonpara.app) | [App Store](https://apps.apple.com/us/app/bonpara/id1636142117)
 - 💧 [Badamlı](https://badamli.az): water delivery to the location.
 - 📦 [Vadi](https://vadi.az): cargo & freight from Turkey.
 - 🚘 [MASHIN.AL](https://mashin.al): car catalog & buy-sell platform.
