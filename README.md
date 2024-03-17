@@ -23,9 +23,11 @@ There are over 60 mobile applications on my portfolio, to see them all and their
 
 ### 🔌 Package & plugins I've developed for Flutter:
 - 🔢 **versionarte**: Flutter plugin remotely managing your app's versioning and availability - [pub.dev](https://pub.dev/packages/versionarte)
+- 🪵 **logarte**: Graphical debug console for Flutter - [pub.dev](https://pub.dev/packages/logarte)
 - 🖨 **telpo_flutter_sdk**: Flutter plugin for Telpo thermal printer devices - [pub.dev](https://pub.dev/packages/telpo_flutter_sdk)
 - 🔄 **cupertino_refresh**: Flutter package for iOS-styled refresh control Widget and Sliver - [pub.dev](https://pub.dev/packages/cupertino_refresh)
 - 🔑 **asan_login_flutter**: Flutter plugin for implementing ASAN Login authentication - [pub.dev](https://pub.dev/packages/asan_login_flutter)
+- 💭 **whelp_flutter_sdk**: Official Flutter plugin for Whelp In-app Live Chat - [pub.dev](https://pub.dev/packages/whelp_flutter_sdk)
 
 ### 📝 Articles:
 - 🔑 "**Building a customizable password strength checker in Flutter**" - [Medium](https://medium.com/@kamranbekirovyz/ac219650305a)
