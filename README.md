@@ -23,7 +23,6 @@ There are over 80 mobile applications on my portfolio, to see them all and their
 
 
 🔌 Package & plugins I've developed for Flutter:
-Discover what your users want and stop developing wrong features.
 - 🆕 [pubgrade](https://pubgrade.dev): VS Code extension for Flutter that makes being notified about new versions of packages easier.
 - 🩵 [userorient_flutter](https://userorient.com): Flutter package for collecting feature requests from users.
 - 📌 [place_pickarte](https://pub.dev/packages/place_pickarte): Pixel-by-pixel customizable map place picker for Flutter.
