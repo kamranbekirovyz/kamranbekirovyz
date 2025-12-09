@@ -1,4 +1,4 @@
-👋 Hi there! I'm Kamran, a Senior Flutter Developer with over 3 years of experience. I've participated in development of more than 50 mobile applications, along with several plugins and packages for Flutter.
+👋 Hi there! I'm Kamran, a Senior Flutter Developer with over 5+ years of experience. I've participated in development of more than 80 mobile applications, along with several plugins and packages for Flutter.
 
 🌱 I'm currently working on several open-source packages and my indie mobile app ideas *por el arte* (for the art of it).
 
@@ -19,18 +19,21 @@
 - 🏪 [Rahat Kart](https://rahatmarket.az): grocery store loyalty/cashback card.
 - 🚚 [Tezibu](https://tezibu.az): instant food & merchandise delivery.
 
-There are over 50 mobile applications on my portfolio, to see them all and their store links, visit [kamranbekirov.com](https://kamranbekirov.com) 🤓
+There are over 80 mobile applications on my portfolio, to see them all and their store links, visit [kamranbekirov.com](https://kamranbekirov.com) 🤓
 
 
 🔌 Package & plugins I've developed for Flutter:
+Discover what your users want and stop developing wrong features.
+- 🆕 [pubgrade](https://pubgrade.dev): VS Code extension for Flutter that makes being notified about new versions of packages easier.
+- 🩵 [userorient_flutter](https://userorient.com): Flutter package for collecting feature requests from users.
+- 📌 [place_pickarte](https://pub.dev/packages/place_pickarte): Pixel-by-pixel customizable map place picker for Flutter.
+- 🪵 [logarte](https://pub.dev/packages/logarte): In-app debug console and logger for Flutter
 - 🔢 [versionarte](https://pub.dev/packages/versionarte): Flutter plugin remotely managing your app's versioning and availability.
 - 🖨 [telpo_flutter_sdk](https://pub.dev/packages/telpo_flutter_sdk): Flutter plugin for Telpo thermal printer devices.
+- 💬 [whelp_flutter_sdk](https://pub.dev/packages/whelp_flutter_sdk): Official Flutter plugin of Whelp Live Chat SDK.
 - 🔄 [cupertino_refresh](https://pub.dev/packages/cupertino_refresh): Flutter package for iOS-styled refresh control Widget and Sliver.
 - 🔑 [asan_login_flutter](https://pub.dev/packages/asan_login_flutter): Flutter plugin for implementing ASAN Login authentication.
 
-📝 Articles:
-- "[Better the state is managed, the better user experience](https://medium.com/design-bootcamp/better-the-state-is-managed-the-better-users-experience-ded901259012)"
-
-💬 Let's get in touch: [Instagram](https://instagram.com/kamranbekirovyz), [LinkedIn](https://linkedin.com/in/kamranbekirovyz), [Medium](https://medium.com/@kamranbekirovyz), [Twitter](https://twitter.com/kamranbekirovyz).
+💬 Let's get in touch: [Instagram](https://instagram.com/kamranbekirovyz), [LinkedIn](https://linkedin.com/in/kamranbekirovyz), [Twitter](https://twitter.com/kamranbekirovyz).
 
 📫 Reach me via [me@kamranbekirov.com](mailto:me@kamranbekirov.com)
