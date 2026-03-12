@@ -26,12 +26,13 @@ There are over 80 mobile applications on my portfolio, to see them all and their
 
 🔌 Package & plugins I've developed for Flutter:
 - 🆕 [pubgrade](https://pubgrade.dev): VS Code extension for Flutter that makes being notified about new versions of packages easier.
-- 🩵 [userorient_flutter](https://userorient.com): Flutter package for collecting feature requests from users.
-- 📌 [place_pickarte](https://pub.dev/packages/place_pickarte): Pixel-by-pixel customizable map place picker for Flutter.
+- 🧩 [Orient UI](https://pub.dev/packages/orient_ui): Theming and components for Flutter. Works with Material, Cupertino, or on its own.
 - 🪵 [logarte](https://pub.dev/packages/logarte): In-app debug console and logger for Flutter
+- 🩵 [userorient_flutter](https://userorient.com): Flutter package for collecting feature requests from users.
 - 🔢 [versionarte](https://pub.dev/packages/versionarte): Flutter plugin remotely managing your app's versioning and availability.
 - 🖨 [telpo_flutter_sdk](https://pub.dev/packages/telpo_flutter_sdk): Flutter plugin for Telpo thermal printer devices.
 - 💬 [whelp_flutter_sdk](https://pub.dev/packages/whelp_flutter_sdk): Official Flutter plugin of Whelp Live Chat SDK.
+- 📌 [place_pickarte](https://pub.dev/packages/place_pickarte): Pixel-by-pixel customizable map place picker for Flutter.
 - 🔄 [cupertino_refresh](https://pub.dev/packages/cupertino_refresh): Flutter package for iOS-styled refresh control Widget and Sliver.
 - 🔑 [asan_login_flutter](https://pub.dev/packages/asan_login_flutter): Flutter plugin for implementing ASAN Login authentication.
 
